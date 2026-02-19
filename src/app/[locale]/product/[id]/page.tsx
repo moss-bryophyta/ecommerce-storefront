@@ -6,9 +6,7 @@ import Link from "next/link";
 import AddToCartButton from "@/components/AddToCartButton";
 import StockStatus from "@/components/StockStatus";
 
-export function generateStaticParams() {
-  return products.map((p) => ({ id: p.id }));
-}
+export const dynamic = "force-dynamic";
 
 export default async function ProductPage({
   params,
