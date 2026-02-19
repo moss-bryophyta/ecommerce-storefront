@@ -1,0 +1,142 @@
+{
+  "03ea2fc12482c254": "Resumen del pedido",
+  "1214807f94962c7a": "Nombre",
+  "1591ca34938cddce": [
+    "Solo ",
+    {
+      "i": 1,
+      "k": "_gt_n_1",
+      "v": "n"
+    },
+    " restante"
+  ],
+  "25679ea46e8dc0c6": "Ciudad",
+  "298ff7a5cf4e2568": "No disponible",
+  "2a7c3d2360c8f61d": "Realizar pedido",
+  "3318987ced27b5a4": "Gratis",
+  "36bb4df54b878787": "Envío",
+  "3dab5f0716eaac98": [
+    "Todos los productos (",
+    {
+      "i": 1,
+      "k": "_gt_n_1",
+      "v": "n"
+    },
+    ")"
+  ],
+  "474774458cbb272c": "Dirección",
+  "481d9bccd60ea2ab": "Añadido al carrito",
+  "484d882324abaf92": "Código postal",
+  "5882ab5e64e35d4a": {
+    "c": [
+      {
+        "i": 2,
+        "k": "_gt_n_2",
+        "v": "n"
+      },
+      " elementos disponibles"
+    ],
+    "d": {
+      "b": {
+        "many": [
+          {
+            "i": 2,
+            "k": "_gt_n_2",
+            "v": "n"
+          },
+          " de elementos disponibles"
+        ],
+        "other": [
+          {
+            "i": 2,
+            "k": "_gt_n_2",
+            "v": "n"
+          },
+          " elementos disponibles"
+        ],
+        "singular": {
+          "c": [
+            {
+              "i": 3,
+              "k": "_gt_n_3",
+              "v": "n"
+            },
+            " elemento disponible"
+          ],
+          "i": 2,
+          "t": "C2"
+        }
+      },
+      "t": "p"
+    },
+    "i": 1,
+    "t": "Plural"
+  },
+  "5fe5c835872da32c": "Apellido",
+  "619a8db474acd4fd": "Continuar comprando",
+  "6eb807cd1232e8a8": "Carrito",
+  "7465026cbc217eb0": [
+    "Cant: ",
+    {
+      "i": 1,
+      "k": "_gt_n_1",
+      "v": "n"
+    }
+  ],
+  "7853bd9e23f25bb6": "Total",
+  "7fac7cfebba285bd": "Storefront",
+  "82b08392ed8f481b": "Carrito de compras",
+  "8ea245d74ae85298": "Volver a todos los productos",
+  "8f4ddcfea53f74eb": {
+    "c": [
+      {
+        "i": 2,
+        "k": "_gt_n_2",
+        "v": "n"
+      },
+      " elementos"
+    ],
+    "d": {
+      "b": {
+        "many": [
+          {
+            "i": 2,
+            "k": "_gt_n_2",
+            "v": "n"
+          },
+          " elementos"
+        ],
+        "other": [
+          {
+            "i": 2,
+            "k": "_gt_n_2",
+            "v": "n"
+          },
+          " elementos"
+        ],
+        "singular": {
+          "c": [
+            {
+              "i": 3,
+              "k": "_gt_n_3",
+              "v": "n"
+            },
+            " elemento"
+          ],
+          "i": 2,
+          "t": "C2"
+        }
+      },
+      "t": "p"
+    },
+    "i": 1,
+    "t": "Plural"
+  },
+  "9ddfb257b8b829dd": "Finalizar compra",
+  "a73bbd58c20828fd": "Añadir al carrito",
+  "c29e9004323bc3cd": "Verificar disponibilidad",
+  "d51c1a6c9892aaca": "Volver al carrito",
+  "ddb3355a8b5d810f": "Subtotal",
+  "e7ecf78041c963a9": "Agotado",
+  "e958e1018c19bd81": "Dirección de envío"
+}
